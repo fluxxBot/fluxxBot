@@ -22,5 +22,10 @@ Currently, I’m working at **JFrog** as part of the **Ecomatrix Team**, where I
 
 ---
 
+### 📊 GitHub Stats
+![Kanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fluxxBot&count_private=true&show_icons=true&include_all_commits=true&theme=dark&theme=radical)
+
+---
+
 ### 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/kanishkgupta221)  
