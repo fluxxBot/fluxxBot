@@ -22,17 +22,5 @@ Currently, I’m working at **JFrog** as part of the **Ecomatrix Team**, where I
 
 ---
 
-### 📊 GitHub Stats
-![Kanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
-
-### 🏆 Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)
-
----
-
 ### 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
-- [Twitter/X](https://twitter.com/YOUR-TWITTER)  
-- [Personal Blog/Website](https://your-website.com)  
+- [LinkedIn](https://linkedin.com/in/kanishkgupta221)  
