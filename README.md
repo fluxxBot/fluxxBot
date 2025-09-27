@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Kanishk 👋  
 
-<!--
-**fluxxBot/fluxxBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Open Source Contributor | Cloud & DevOps Enthusiast**  
 
-Here are some ideas to get you started:
+I enjoy building scalable tools, automating workflows, and experimenting with developer productivity solutions.  
+Currently, I’m exploring **Go, Node.js, Kubernetes, and CLI tooling**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- **Languages:** Go, JavaScript/TypeScript, Python  
+- **Cloud & DevOps:** Docker, Kubernetes, JFrog, GitHub Actions  
+- **Other Tools:** Gradle, npm workspaces, Poetry, Bash  
+
+---
+
+### 📌 Current Focus
+- Building **CLI tools** for automation  
+- Experimenting with **container runtimes** (Docker, Podman, Buildah)  
+- Exploring **monitoring and scaling solutions** in Kubernetes  
+
+---
+
+### 📊 GitHub Stats
+![Kanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
+- [Twitter/X](https://twitter.com/YOUR-TWITTER)  
+- [Personal Blog/Website](https://your-website.com)  
