@@ -3,7 +3,7 @@
 💻 **Software Developer | Open Source Contributor | Cloud & DevOps Enthusiast**  
 
 I enjoy building scalable tools, automating workflows, and experimenting with developer productivity solutions.  
-Currently, I’m exploring **Go, Node.js, Kubernetes, and CLI tooling**.  
+Currently, I’m working at **JFrog** as part of the **Ecomatrix Team**, where I’m responsible for the **JFrog CLI and Plugins ecosystem**.  
 
 ---
 
@@ -15,6 +15,7 @@ Currently, I’m exploring **Go, Node.js, Kubernetes, and CLI tooling**.
 ---
 
 ### 📌 Current Focus
+- Developing and maintaining **JFrog CLI & plugins**  
 - Building **CLI tools** for automation  
 - Experimenting with **container runtimes** (Docker, Podman, Buildah)  
 - Exploring **monitoring and scaling solutions** in Kubernetes  
@@ -23,6 +24,11 @@ Currently, I’m exploring **Go, Node.js, Kubernetes, and CLI tooling**.
 
 ### 📊 GitHub Stats
 ![Kanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 🏆 Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)
 
 ---
 
