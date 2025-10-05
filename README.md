@@ -9,8 +9,8 @@ Currently, I’m working at **JFrog** as part of the **Ecomatrix Team**, where I
 
 ### 🔧 Tech Stack
 - **Languages:** Go, Java, JavaScript/TypeScript, Python  
-- **Cloud & DevOps:** Docker, Kubernetes, JFrog, GitHub Actions  
-- **Other Tools:** Gradle, npm workspaces, Poetry, Bash  
+- **Cloud & DevOps:** Docker, Kubernetes, Artifactory, GitHub Actions  
+- **Other Tools:** redis, maven, gradle, npm, poetry, Bash
 
 ---
 
